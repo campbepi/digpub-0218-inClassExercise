@@ -1,0 +1,5 @@
+{
+    "html.autoClosingTags": false,
+    "editor.wordWrap": "on",
+    "workbench.editor.closeEmptyGroups": false
+}
